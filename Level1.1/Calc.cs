@@ -10,6 +10,10 @@ using System.Windows.Forms;
 
 namespace Level1._1
 {
+    /// <summary>
+    /// Вычислить c = a + b, вводя исходные данные в два текстовых
+    /// поля (TextBox), в третье – вывести результат
+    /// </summary>
     public partial class Form1 : Form
     {
         public Form1()
